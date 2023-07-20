@@ -1,0 +1,15 @@
+/home/tutmesay/learning_dot_net/bin/Debug/net7.0/learning_dot_net
+/home/tutmesay/learning_dot_net/bin/Debug/net7.0/learning_dot_net.deps.json
+/home/tutmesay/learning_dot_net/bin/Debug/net7.0/learning_dot_net.runtimeconfig.json
+/home/tutmesay/learning_dot_net/bin/Debug/net7.0/learning_dot_net.dll
+/home/tutmesay/learning_dot_net/bin/Debug/net7.0/learning_dot_net.pdb
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/learning_dot_net.csproj.AssemblyReference.cache
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/learning_dot_net.GeneratedMSBuildEditorConfig.editorconfig
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/learning_dot_net.AssemblyInfoInputs.cache
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/learning_dot_net.AssemblyInfo.cs
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/learning_dot_net.csproj.CoreCompileInputs.cache
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/learning_dot_net.dll
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/refint/learning_dot_net.dll
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/learning_dot_net.pdb
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/learning_dot_net.genruntimeconfig.cache
+/home/tutmesay/learning_dot_net/obj/Debug/net7.0/ref/learning_dot_net.dll
